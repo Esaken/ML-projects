@@ -14,3 +14,9 @@ venv\Scripts\activate.bat
 venv\Scripts\Activate.ps1
 # In linux
 $ source myvenv/bin/activate
+
+# dependancies  
+requirements.txt
+
+# run requirements
+pip install -r requirements.txt
