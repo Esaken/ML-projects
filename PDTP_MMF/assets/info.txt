@@ -16,4 +16,65 @@ CMA minimum standards to license an investment firm are:
    - Operate with transparency regarding their investments and returns.
     - Maintain liquidity to allow you to enter and exit the investment with ease
 
-    
+4. Key characteristics of MMFs
+        Liquidity: MMFs offer easy access to your money, making them highly liquid investments.
+
+        You can typically withdraw your funds within a short period, hence providing the convenience of quick cash whenever you need it.
+
+        Low Risk: They are considered low-risk investments compared to stocks or mutual funds.
+
+        Your money is usually invested in high-quality, short-term debt securities, which minimizes your exposure to market volatility.
+
+        Interest: Returns from MMFs come in the form of interest, which can be declared daily or monthly.
+
+        These funds aim to offer stable and possibly competitive interest rates to safeguard and grow your investment.
+
+        Capital Preservation: If safety is your primary concern, MMFs aim to maintain your capital’s value.
+
+        While no investment is risk-free, money market funds focus on preserving your initial investment amount, often making them more appealing than more volatile options.
+
+5. How MMFs work in Kenya
+        Portfolio composition: In Kenya, the portfolio of an MMF includes a mix of money market instruments such as treasury bills, commercial paper, and fixed deposits.
+
+        These instruments form a diversified fund to mitigate risk and provide potential returns.
+
+        Investment process: To invest in an MMF in Kenya, you often begin by selecting a fund with a performance history and risk level that suits your needs.
+
+        You can start with a minimal entry requirement and have the flexibility to increase your investment over time.
+
+        Remember, despite their focus on safety and liquidity, the returns on MMFs can vary, and it’s important to review the fund’s performance
+
+6. Choosing the right fund
+When selecting an MMF, it’s important to compare different funds based on:
+
+        Historical performance: Look for consistency in returns over time.
+        Fees: Lower fees can significantly affect net returns.
+        Fund manager reputation: Choose managers with a solid track record.
+        Liquidity and minimum investment period: Ensure these align with your liquidity needs.
+
+7. Understanding fees and expenses
+Management fees: These fees are necessary for the management of the unit trust that usually underlies the MMF
+
+8. RISKS to MMFs
+        Interest rate fluctuations: Changes in interest rates can affect the performance of money market funds. If rates decrease, so may your potential returns.
+
+        Inflation risk: While money market funds are a low-risk investment, inflation can erode the purchasing power of your returns over time.
+
+        Credit risk: There is always a degree of credit risk involved, as you’re relying on the issuer’s ability to pay back the debt. Default on payments could affect the fund’s value.
+
+        Fees: Despite generally lower fees, always be aware of the management fees and any other associated costs, as they can impact your net returns.
+
+9. Traditional Savings vs. MMFs
+        In comparing traditional savings accounts with MMFs, the latter often offer higher returns.
+
+        A traditional savings account at a bank may give you a sense of security and ease of access, but the interest earned is typically low (5-7%) before tax.
+
+        In contrast, MMFs aim to provide higher yield, often outpacing the inflation rate, which means your money has the potential to grow more over time. Rates around 9 -13% after tax, as of May, 2024.
+
+        Moreover, you’ll find that MMFs maintain a high level of liquidity, similar to your savings account, allowing you to access your funds when needed.
+
+REFERENCES
+1. What is MMF? https://money.ke/money-market-funds-in-kenya/
+2. Capital Market Authorities Act: http://kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=CAP.%20485A
+3. Capital Market Authority RATES: https://www.centralbank.go.ke/forex/
+4. 

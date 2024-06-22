@@ -1,0 +1,3 @@
+CSV stands for Comma Separated Values. It is a file format used to store data in a tabular form.
+
+Each row in a CSV file represents a record, and each column represents a field.
