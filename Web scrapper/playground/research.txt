@@ -1,0 +1,6 @@
+links
+1. https://medium.com/@zainab.mehmood/scraping-data-from-tables-and-multiple-web-pages-401d5181771
+2. https://medium.com/@kawsarlog/the-beginners-guide-to-scraping-tables-with-beautifulsoup-5e08f19242ec
+3. https://medium.com/@oboenfreak/web-scraping-wikipedia-tables-with-python-22223f761b1e
+4. https://memudualimatou.medium.com/web-scraping-how-to-extract-a-table-8c979ab40c23
+5. https://medium.com/@pelinokutan/maximizing-data-collection-efficiency-a-guide-to-web-scraping-tables-with-excel-9def293939bb
